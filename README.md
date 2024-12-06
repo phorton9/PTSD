@@ -6,7 +6,7 @@ This repository contains the code used for the proposed method described in the 
 To run the code, you need to install the `mvtnorm` library for calculations. You can install it in R using:
 
 ```R
-install.packages("mvtnorm")
+install.packages("mvtnorm")'''
 
 ## Usage
 - Refer to the `example.R` file for guidance on how to use the code for both optimization and simulation tasks.
