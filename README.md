@@ -7,3 +7,7 @@ To run the code, you need to install the `mvtnorm` library for calculations. You
 
 ```R
 install.packages("mvtnorm")
+
+## Usage
+- Refer to the `example.R` file for guidance on how to use the code for both optimization and simulation tasks.
+- Customize the design parameters in the provided functions to match your specific requirements.
