@@ -33,7 +33,7 @@ alpha <- 0.025  # Type I error threshold
 lambda1 <- 500  # Penalty parameter 1
 lambda2 <- 500  # Penalty parameter 2
 initial_point <- c(2.69, -0.8, 2.3, 0.1, 0.5, 150)  # Starting point
-nLoops <- 10  # Number of iterations per temperature level
+nLoops <- 100  # Number of iterations per temperature level
 
 # Run the simulated annealing algorithm
 result <- simulated_Annealing(
